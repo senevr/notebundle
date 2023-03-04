@@ -1,0 +1,6 @@
+[submodule "cheatsheets"]
+	path = cheatsheets
+	url = https://github.com/senevr/cheatsheets
+[submodule "studynotes"]
+	path = studynotes
+	url = https://github.com/senevr/studynotes
